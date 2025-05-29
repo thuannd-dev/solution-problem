@@ -1,0 +1,15 @@
+D:\NetProject\Problem\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetProject\Problem\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.AssemblyInfoInputs.cache
+D:\NetProject\Problem\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.AssemblyInfo.cs
+D:\NetProject\Problem\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.csproj.CoreCompileInputs.cache
+D:\NetProject\Problem\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.sourcelink.json
+D:\NetProject\Problem\AddTwoNumbers\bin\Debug\net8.0\AddTwoNumbers.exe
+D:\NetProject\Problem\AddTwoNumbers\bin\Debug\net8.0\AddTwoNumbers.deps.json
+D:\NetProject\Problem\AddTwoNumbers\bin\Debug\net8.0\AddTwoNumbers.runtimeconfig.json
+D:\NetProject\Problem\AddTwoNumbers\bin\Debug\net8.0\AddTwoNumbers.dll
+D:\NetProject\Problem\AddTwoNumbers\bin\Debug\net8.0\AddTwoNumbers.pdb
+D:\NetProject\Problem\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.dll
+D:\NetProject\Problem\AddTwoNumbers\obj\Debug\net8.0\refint\AddTwoNumbers.dll
+D:\NetProject\Problem\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.pdb
+D:\NetProject\Problem\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.genruntimeconfig.cache
+D:\NetProject\Problem\AddTwoNumbers\obj\Debug\net8.0\ref\AddTwoNumbers.dll

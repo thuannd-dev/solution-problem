@@ -12,3 +12,4 @@ D:\NetProject\Problem\TwoSum\obj\Debug\net8.0\refint\TwoSum.dll
 D:\NetProject\Problem\TwoSum\obj\Debug\net8.0\TwoSum.pdb
 D:\NetProject\Problem\TwoSum\obj\Debug\net8.0\TwoSum.genruntimeconfig.cache
 D:\NetProject\Problem\TwoSum\obj\Debug\net8.0\ref\TwoSum.dll
+D:\NetProject\Problem\TwoSum\obj\Debug\net8.0\TwoSum.sourcelink.json
