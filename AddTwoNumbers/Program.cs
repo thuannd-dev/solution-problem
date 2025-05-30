@@ -14,7 +14,7 @@ public class ListNode
 // Fix for CA1822: Mark 'AddTwoNumbers' as static since it does not access instance data.  
 public class Solution
 {
-    public static ListNode AddTwoNumbers(ListNode l1, ListNode l2, int carry = 0)
+    public ListNode AddTwoNumbers(ListNode l1, ListNode l2, int carry = 0)
     {
         if (l1 == null && l2 == null && carry == 0) return null;
 
